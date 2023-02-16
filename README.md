@@ -17,4 +17,4 @@ As a bonus, talking through your code also helps you identify which portions nee
 # Content
 Directory | Files
 --------- | -----
-[0x00-hello_world project]() | 0-preprocessor,1-compiler,2-assembler,3-name,4-puts.c,5-printf.c,6-size.c,100-intel,101-quote.c
+[0x00-hello_world project](https://github.com/zezo-rgb/alx-low_level_programming/tree/main/0x00-hello_world) | 0-preprocessor,1-compiler,2-assembler,3-name,4-puts.c,5-printf.c,6-size.c,100-intel,101-quote.c
